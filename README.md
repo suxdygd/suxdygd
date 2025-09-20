@@ -2,6 +2,6 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev>
-    <img src="https://skillicons.dev/icons?i=c,nodejs,figma,py,neovim,linux,html,css,js&theme=light">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,nodejs,figma,py,neovim,linux">
   </a>
 </p>
